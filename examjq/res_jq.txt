@@ -1,0 +1,28 @@
+1. Display the number of attributes per document as well as the name attribute. How many attributes do they have? Display only the first 12 lines with the head command.
+
+--------------------------------------
+
+2. How many 'unknown' values are there for the 'birth_year' attribute? Use the tail command to isolate the response.
+0
+
+--------------------------------------
+
+3. Display each character's creation date and name. The creation date must be in the format: year, month, and day. Display only the first 10 lines.
+
+--------------------------------------
+
+4. Some characters are born at the same time. Find all the pairs of IDs (2 IDs) of the characters born at the same time.
+
+--------------------------------------
+
+5. Return the number of the first movie each character was seen in followed by the character's name. Display only the first 10 lines.
+
+--------------------------------------
+
+
+----------------BONUS----------------
+
+6. Delete documents where the height attribute is not a number.
+7. Transform the height attribute into a number.
+8. Return only characters whose height is between 156 and 171.
+9. Return the smallest individual from people_8.json and display this sentence in one command: '<character_name> is <height> tall'. Save in people_9.txt.
